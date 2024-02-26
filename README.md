@@ -1,4 +1,12 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+
+# 👋🏻 Hi
+<div align="center">
+	<br>
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+</div>
+
+
 
 <!--
 **Answer-version/Answer-version** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
